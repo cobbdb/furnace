@@ -1,1 +1,1 @@
-var tree={"files":["./"]};
+var tree={"files":["gruntfile.js","gruntfile_other.js"]};
